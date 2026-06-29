@@ -1,0 +1,1407 @@
+canonical_identifier: bkk:krp/KR3eb018/v1
+canonical_location: https://kanripo.org/bkk/KR3eb018/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:7cf5854f9b7b99617990762b56ca5289dd34e1992baf324bb7716157d9a4b2ee
+metadata:
+  title: 脈訣彙辨
+  identifiers:
+    krp: KR3eb018
+  tags:
+    kr-categories: KR3eb
+    tls-dates: dat04210
+  source:
+    repository: tls-texts
+    path: data/tls/KR3eb018.xml
+  edition:
+    short: bkk
+assets:
+  parts:
+  - {seq: 0, filename: KR3eb018_000.yaml, hash: 'sha256:1e1becde9bbaef539770051fe68e4832cdf74f5dade74a547ca29ebff74019eb'}
+  - {seq: 1, filename: KR3eb018_001.yaml, hash: 'sha256:4594f85716ff390f28912e02e447572d60765bd6020fbffc85487b66087aee51'}
+  - {seq: 2, filename: KR3eb018_002.yaml, hash: 'sha256:ee1a671ac5c576d06967f24bc9ee08c0164bf74d388afb16cca2c8d5fe658a61'}
+  - {seq: 3, filename: KR3eb018_003.yaml, hash: 'sha256:7f889eddb749a002ff4d6cf37ab57e0f79ff12f7b9fa675ca9964d59f36083b6'}
+  - {seq: 4, filename: KR3eb018_004.yaml, hash: 'sha256:6706af43a763be2d1b51672ac4f7a2c5510ecb92ff64c22d633929667b70a83a'}
+  - {seq: 5, filename: KR3eb018_005.yaml, hash: 'sha256:535c411b4171acbd87ad4e9e6bc33220a987db6b8e78240a446c1eb2b9140ab8'}
+  - {seq: 6, filename: KR3eb018_006.yaml, hash: 'sha256:126b84d5547496d961c25e54f6f486cf4076e988d454e98e130b9c36f4ebb4a2'}
+  - {seq: 7, filename: KR3eb018_007.yaml, hash: 'sha256:ccc3a5636ca89870bf9b653c2af52a10c89a128f536c55932a5092a6a9a6e458'}
+  - {seq: 8, filename: KR3eb018_008.yaml, hash: 'sha256:7be76973ae06979cc826d8e2fb3625c33632406bf7bd232cbe95901912318dee'}
+  - {seq: 9, filename: KR3eb018_009.yaml, hash: 'sha256:5746543092565c3cad589b009bcd75101914198e812b9a86efa66f8794d26f06'}
+  - {seq: 10, filename: KR3eb018_010.yaml, hash: 'sha256:08c68d12822d1d34f18be6f4beae3f46b0bdf53f29467ccc115485590bf82f9b'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR3eb018_000.markers.yaml, hash: 'sha256:b1f00357203ec7cd59123b4bc4dc75bdbf8379096c40c75f804cb019117624a9'}
+  - {seq: 1, role: markers, filename: assets/KR3eb018_001.markers.yaml, hash: 'sha256:4152e3c0b552c65d685f4dd4d297bd6e5e7f431dd48644fa4b49185e8485a266'}
+  - {seq: 2, role: markers, filename: assets/KR3eb018_002.markers.yaml, hash: 'sha256:62d1f6a370622fb5d6814cbdefe7c2e62dd496778e916df316aad3830fa7a451'}
+  - {seq: 3, role: markers, filename: assets/KR3eb018_003.markers.yaml, hash: 'sha256:e28bd254c35a6c72e01a9588ab49fe04a25f049f4dfb4bb535d3d9f440d6cccc'}
+  - {seq: 4, role: markers, filename: assets/KR3eb018_004.markers.yaml, hash: 'sha256:9c95da4e84631772670e293d1aaa60154684df9c6b7f0c73a681b8e1b3ae95fb'}
+  - {seq: 5, role: markers, filename: assets/KR3eb018_005.markers.yaml, hash: 'sha256:9eb44ddfce3daada75c53ab004f8fad037fa54349b87e57f0345c5b3137f4d8c'}
+  - {seq: 6, role: markers, filename: assets/KR3eb018_006.markers.yaml, hash: 'sha256:b66010046fef0fb8b4509685c2510bb1df9548f7c8a41b9a9d79660da0937c1c'}
+  - {seq: 7, role: markers, filename: assets/KR3eb018_007.markers.yaml, hash: 'sha256:ee3f97835430989547d396c94a3288d75356e50ab98a95826a5d742000b90803'}
+  - {seq: 8, role: markers, filename: assets/KR3eb018_008.markers.yaml, hash: 'sha256:8b437b08cd26ed92ade911e428db5898b4ba88d266a521d914603dc41d5881f2'}
+  - {seq: 9, role: markers, filename: assets/KR3eb018_009.markers.yaml, hash: 'sha256:de631d017dfe00ee81b7019960c3b603c0e9a179462b514f1a2a8aca78853146'}
+  - {seq: 10, role: markers, filename: assets/KR3eb018_010.markers.yaml, hash: 'sha256:3a2a47b9563ce41021f6579925c9ebe937b65bb5d49ab975889975909724fa46'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR3eb018_jc_000-d2.h1s1
+    span:
+    - body
+    - 0
+    - 566
+  label: 劉敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb018_jc_000-d3.h1s1
+    span:
+    - body
+    - 566
+    - 1051
+  label: 自敘
+  type: section
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR3eb018_jc_000-d4.h1s1
+    span:
+    - body
+    - 1051
+    - 1632
+  label: 凡例
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5.h1s1
+    span:
+    - body
+    - 0
+    - 9181
+  label: 卷一
+  type: section
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5d2
+    span:
+    - body
+    - 2
+    - 496
+  label: 多讀書論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5d3
+    span:
+    - body
+    - 496
+    - 951
+  label: 脈位法天地五行論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5d4
+    span:
+    - body
+    - 951
+    - 1529
+  label: 提綱論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5d5
+    span:
+    - body
+    - 1529
+    - 2076
+  label: 因形氣以定診論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5d6
+    span:
+    - body
+    - 2076
+    - 3312
+  label: 運氣論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5d7
+    span:
+    - body
+    - 3312
+    - 3915
+  label: 太素脈論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5d8
+    span:
+    - body
+    - 3915
+    - 5629
+  label: 審象論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5d9
+    span:
+    - body
+    - 5629
+    - 6077
+  label: 脈有亢制論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5d10
+    span:
+    - body
+    - 6077
+    - 6779
+  label: 衝陽太谿二脈論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5d11
+    span:
+    - body
+    - 6779
+    - 7290
+  label: 脈有不可言傳論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5d12
+    span:
+    - body
+    - 7290
+    - 7716
+  label: 脈無根有兩說論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5d13
+    span:
+    - body
+    - 7716
+    - 8365
+  label: 調息已定然後診脈論
+  type: section
+  level: 2
+- ref:
+    seq: 1
+    marker_id: KR3eb018_jc_001-d5d14
+    span:
+    - body
+    - 8365
+    - 9181
+  label: 問情論
+  type: section
+  level: 2
+- ref:
+    seq: 2
+    marker_id: KR3eb018_jc_002-d6.h1s1
+    span:
+    - body
+    - 0
+    - 13241
+  label: 卷二
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eb018_jc_003-d7.h1s1
+    span:
+    - body
+    - 0
+    - 8816
+  label: 卷三
+  type: section
+  level: 1
+- ref:
+    seq: 3
+    marker_id: KR3eb018_jc_003-d7d4
+    span:
+    - body
+    - 124
+    - 1198
+  label: 浮脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb018_jc_003-d7d5
+    span:
+    - body
+    - 1198
+    - 1975
+  label: 沉脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb018_jc_003-d7d6
+    span:
+    - body
+    - 1975
+    - 2611
+  label: 遲脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb018_jc_003-d7d7
+    span:
+    - body
+    - 2611
+    - 3476
+  label: 數脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb018_jc_003-d7d8
+    span:
+    - body
+    - 3476
+    - 4420
+  label: 滑脈陽中之陰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb018_jc_003-d7d9
+    span:
+    - body
+    - 4420
+    - 5292
+  label: 澀脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb018_jc_003-d7d10
+    span:
+    - body
+    - 5292
+    - 5936
+  label: 虛脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb018_jc_003-d7d11
+    span:
+    - body
+    - 5936
+    - 6525
+  label: 實脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb018_jc_003-d7d12
+    span:
+    - body
+    - 6525
+    - 6960
+  label: 長脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb018_jc_003-d7d13
+    span:
+    - body
+    - 6960
+    - 7422
+  label: 短脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb018_jc_003-d7d14
+    span:
+    - body
+    - 7422
+    - 7924
+  label: 洪脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 3
+    marker_id: KR3eb018_jc_003-d7d15
+    span:
+    - body
+    - 7924
+    - 8816
+  label: 微脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8.h1s1
+    span:
+    - body
+    - 0
+    - 8474
+  label: 卷四
+  type: section
+  level: 1
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d2
+    span:
+    - body
+    - 2
+    - 609
+  label: 緊脈陰中之陽
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d3
+    span:
+    - body
+    - 609
+    - 1172
+  label: 緩脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d4
+    span:
+    - body
+    - 1172
+    - 1718
+  label: 芤脈陽中陰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d5
+    span:
+    - body
+    - 1718
+    - 2627
+  label: 弦脈陽中之陰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d6
+    span:
+    - body
+    - 2627
+    - 3199
+  label: 革脈陽中之陰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d7
+    span:
+    - body
+    - 3199
+    - 3668
+  label: 牢脈陰中之陽
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d8
+    span:
+    - body
+    - 3668
+    - 4033
+  label: 濡脈陰中之陰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d9
+    span:
+    - body
+    - 4033
+    - 4386
+  label: 弱脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d10
+    span:
+    - body
+    - 4386
+    - 4839
+  label: 散脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d11
+    span:
+    - body
+    - 4839
+    - 5321
+  label: 細脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d12
+    span:
+    - body
+    - 5321
+    - 5742
+  label: 伏脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d13
+    span:
+    - body
+    - 5742
+    - 6354
+  label: 動脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d14
+    span:
+    - body
+    - 6354
+    - 6730
+  label: 促脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d15
+    span:
+    - body
+    - 6730
+    - 7148
+  label: 結脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d16
+    span:
+    - body
+    - 7148
+    - 8045
+  label: 代脈陰
+  type: section
+  level: 2
+- ref:
+    seq: 4
+    marker_id: KR3eb018_jc_004-d8d17
+    span:
+    - body
+    - 8045
+    - 8474
+  label: 疾脈陽
+  type: section
+  level: 2
+- ref:
+    seq: 5
+    marker_id: KR3eb018_jc_005-d9.h1s1
+    span:
+    - body
+    - 0
+    - 7043
+  label: 卷五
+  type: section
+  level: 1
+- ref:
+    seq: 6
+    marker_id: KR3eb018_jc_006-d10.h1s1
+    span:
+    - body
+    - 0
+    - 5332
+  label: 卷六
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.h1s1
+    span:
+    - body
+    - 0
+    - 9357
+  label: 卷七
+  type: section
+  level: 1
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11d4
+    span:
+    - body
+    - 79
+    - 4856
+  label: 望診
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d4d56
+    span:
+    - body
+    - 2318
+    - 2444
+  label: 面部
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d4d57
+    span:
+    - body
+    - 2444
+    - 2839
+  label: 目部
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d4d58
+    span:
+    - body
+    - 2839
+    - 3285
+  label: 鼻部
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d4d59
+    span:
+    - body
+    - 3285
+    - 3343
+  label: 血脈
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d4d60
+    span:
+    - body
+    - 3343
+    - 3400
+  label: 毛髮
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d4d61
+    span:
+    - body
+    - 3400
+    - 3839
+  label: 形體
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d4d62
+    span:
+    - body
+    - 3839
+    - 4125
+  label: 死證
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d4d63
+    span:
+    - body
+    - 4125
+    - 4751
+  label: 五臟絕證
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d4d64
+    span:
+    - body
+    - 4751
+    - 4795
+  label: 診病新久
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d4d65
+    span:
+    - body
+    - 4795
+    - 4856
+  label: 詐病
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11d5
+    span:
+    - body
+    - 4856
+    - 6938
+  label: 聲診
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d5d18
+    span:
+    - body
+    - 5583
+    - 6938
+  label: 息
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11d6
+    span:
+    - body
+    - 6938
+    - 8845
+  label: 問診
+  type: section
+  level: 2
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d6d6
+    span:
+    - body
+    - 7033
+    - 7317
+  label: 人品起居
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d6d7
+    span:
+    - body
+    - 7317
+    - 8579
+  label: 嗜欲苦藥
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11.d6d8
+    span:
+    - body
+    - 8579
+    - 8845
+  label: 病證
+  type: section
+  level: 3
+- ref:
+    seq: 7
+    marker_id: KR3eb018_jc_007-d11d7
+    span:
+    - body
+    - 8845
+    - 9357
+  label: 附辨舌
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.h1s1
+    span:
+    - body
+    - 0
+    - 6696
+  label: 卷八
+  type: section
+  level: 1
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d188
+    span:
+    - body
+    - 4371
+    - 4397
+  label: 太過有餘之歲
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d189
+    span:
+    - body
+    - 4397
+    - 4423
+  label: 不及不足之紀
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d190
+    span:
+    - body
+    - 4423
+    - 4462
+  label: 天符說
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d191
+    span:
+    - body
+    - 4462
+    - 4623
+  label: 歲會說
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d192
+    span:
+    - body
+    - 4623
+    - 4716
+  label: 同天符
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d193
+    span:
+    - body
+    - 4716
+    - 4743
+  label: 同歲會
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d194
+    span:
+    - body
+    - 4743
+    - 4778
+  label: 順化訣
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d195
+    span:
+    - body
+    - 4778
+    - 4813
+  label: 天刑訣
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d196
+    span:
+    - body
+    - 4813
+    - 4850
+  label: 小逆訣
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d197
+    span:
+    - body
+    - 4850
+    - 4887
+  label: 不和訣
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d198
+    span:
+    - body
+    - 4887
+    - 4984
+  label: 太乙天符
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d199
+    span:
+    - body
+    - 4984
+    - 5079
+  label: 支德符
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d200
+    span:
+    - body
+    - 5079
+    - 5118
+  label: 干德符
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d201
+    span:
+    - body
+    - 5118
+    - 5258
+  label: 六氣加臨上下
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d202
+    span:
+    - body
+    - 5258
+    - 5599
+  label: 太過之紀
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d202d2
+    span:
+    - body
+    - 5262
+    - 5342
+  label: 木曰發生之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d202d3
+    span:
+    - body
+    - 5342
+    - 5409
+  label: 火曰赫曦之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d202d4
+    span:
+    - body
+    - 5409
+    - 5471
+  label: 土曰敦阜之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d202d5
+    span:
+    - body
+    - 5471
+    - 5532
+  label: 金曰堅成之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d202d6
+    span:
+    - body
+    - 5532
+    - 5599
+  label: 水曰流衍之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d203
+    span:
+    - body
+    - 5599
+    - 5924
+  label: 不及之紀
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d203d2
+    span:
+    - body
+    - 5603
+    - 5671
+  label: 木曰委和之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d203d3
+    span:
+    - body
+    - 5671
+    - 5743
+  label: 火曰伏明之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d203d4
+    span:
+    - body
+    - 5743
+    - 5793
+  label: 土曰卑監之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d203d5
+    span:
+    - body
+    - 5793
+    - 5858
+  label: 金曰從革之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d203d6
+    span:
+    - body
+    - 5858
+    - 5924
+  label: 水曰涸流之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12d204
+    span:
+    - body
+    - 5924
+    - 6696
+  label: 平氣之紀
+  type: section
+  level: 2
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d204d2
+    span:
+    - body
+    - 5928
+    - 5966
+  label: 木曰敷和之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d204d3
+    span:
+    - body
+    - 5966
+    - 6029
+  label: 火曰升明之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d204d4
+    span:
+    - body
+    - 6029
+    - 6065
+  label: 土曰備化之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d204d5
+    span:
+    - body
+    - 6065
+    - 6145
+  label: 金曰審平之紀
+  type: section
+  level: 3
+- ref:
+    seq: 8
+    marker_id: KR3eb018_jc_008-d12.d204d6
+    span:
+    - body
+    - 6145
+    - 6696
+  label: 水曰靜順之紀
+  type: section
+  level: 3
+- ref:
+    seq: 9
+    marker_id: KR3eb018_jc_009-d13.h1s1
+    span:
+    - body
+    - 0
+    - 7310
+  label: 卷九
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.h1s1
+    span:
+    - body
+    - 0
+    - 5304
+  label: 卷十
+  type: section
+  level: 1
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14d4
+    span:
+    - body
+    - 100
+    - 5238
+  label: 經絡
+  type: section
+  level: 2
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d2
+    span:
+    - body
+    - 102
+    - 161
+  label: 十二經歌
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d3
+    span:
+    - body
+    - 161
+    - 169
+  label: 十二經臟腑表裡圖
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d4
+    span:
+    - body
+    - 169
+    - 276
+  label: 十二經納甲歌
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d5
+    span:
+    - body
+    - 276
+    - 312
+  label: 十二經氣血多少歌
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d6
+    span:
+    - body
+    - 312
+    - 453
+  label: 經絡周流解
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d7
+    span:
+    - body
+    - 453
+    - 506
+  label: 十二經營行次序逆順歌
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d8
+    span:
+    - body
+    - 506
+    - 843
+  label: 經絡次序
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d9
+    span:
+    - body
+    - 843
+    - 1048
+  label: 十二經脈起止歌
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d10
+    span:
+    - body
+    - 1048
+    - 1426
+  label: 周身經絡部位歌
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d11
+    span:
+    - body
+    - 1426
+    - 1530
+  label: 十二經流注時序歌
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d12
+    span:
+    - body
+    - 1530
+    - 1802
+  label: 手太陰肺經
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d13
+    span:
+    - body
+    - 1802
+    - 2065
+  label: 手陽明大腸經
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d14
+    span:
+    - body
+    - 2065
+    - 2295
+  label: 足陽明胃經
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d15
+    span:
+    - body
+    - 2295
+    - 2497
+  label: 足太陰脾經
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d16
+    span:
+    - body
+    - 2497
+    - 2718
+  label: 手少陰心經
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d17
+    span:
+    - body
+    - 2718
+    - 2922
+  label: 手太陽小腸經
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d18
+    span:
+    - body
+    - 2922
+    - 3284
+  label: 足太陽膀胱經
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d19
+    span:
+    - body
+    - 3284
+    - 3514
+  label: 足少陰腎經
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d20
+    span:
+    - body
+    - 3514
+    - 3720
+  label: 手厥陰心包絡經
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d21
+    span:
+    - body
+    - 3720
+    - 3939
+  label: 手少陽三焦經
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d22
+    span:
+    - body
+    - 3939
+    - 4130
+  label: 足少陽膽經
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d23
+    span:
+    - body
+    - 4130
+    - 4295
+  label: 足厥陰肝經
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d24
+    span:
+    - body
+    - 4295
+    - 4349
+  label: 任脈
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d25
+    span:
+    - body
+    - 4349
+    - 4411
+  label: 督脈
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d26
+    span:
+    - body
+    - 4411
+    - 4565
+  label: 任督解
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d27
+    span:
+    - body
+    - 4565
+    - 4647
+  label: 十六絡穴圖
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d28
+    span:
+    - body
+    - 4647
+    - 4924
+  label: 宗營衛三氣解
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d29
+    span:
+    - body
+    - 4924
+    - 5037
+  label: 面部分位
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d30
+    span:
+    - body
+    - 5037
+    - 5155
+  label: 臟腑色見面部
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14.d4d31
+    span:
+    - body
+    - 5155
+    - 5238
+  label: 肢節色見面部
+  type: section
+  level: 3
+- ref:
+    seq: 10
+    marker_id: KR3eb018_jc_010-d14d5
+    span:
+    - body
+    - 5238
+    - 5304
+  label: 脈案圖式
+  type: section
+  level: 2
+hash: sha256:401edf41af5183f92efdad4d1e506d474aec04a9f442ee5c8f1fa7b3f4e21065
+mappings:
+- canonical_identifier: bkk:mapping/variant-fold-v1
+  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
